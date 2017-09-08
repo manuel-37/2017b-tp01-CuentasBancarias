@@ -7,5 +7,5 @@
 
 ## Estudiantes
 
-* Manuel Chinchi ([manuel-37])(https://github.com/manuel-37)
-* Gabriel Maciel ([gabriel-maciel])(https://github.com/gabriel-maciel)
+* Manuel Chinchi (https://github.com/manuel-37)
+* Gabriel Maciel (https://github.com/gabriel-maciel)
