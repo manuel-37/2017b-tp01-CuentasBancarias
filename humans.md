@@ -7,5 +7,5 @@
 
 ## Estudiantes
 
-* XXX ([xxx](https://github.com/xxx))
-* XXX ([xxx](https://github.com/xxx))
+* Manuel Chinchi ([xxx](https://github.com/xxx))
+* Gabriel Maciel ([xxx](https://github.com/xxx))
